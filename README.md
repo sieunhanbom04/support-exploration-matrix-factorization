@@ -11,6 +11,8 @@ support_explore.py: An implementation of Algorithm 1 in the paper.
 
 k_assignment.py: An implementation of Algorithm 2 in the paper.
 
+palm4msa_hierar.py: A python implementation of PALM and hierarchical factorization (originated from this paper: https://hal.inria.fr/hal-01167948v2)
+
 MEG.npy: the matrix MEG
 
 demo.ipynb: A jupyter notebook re-conducts the experiments in the paper
