@@ -1,4 +1,4 @@
-# Code for the paper "STRUCTURED SUPPORT EXPLORATION FOR MULTI-LAYER SPARSE MATRIX FACTORIZATION"
+# Code for the paper "Structured Support Exploration For Multilayer Sparse Matrix Factorization"
 
 Code to reproduce experiments in "Structured support exploration for multi-layer sparse matrix factorization" 
 - ICASSP 2020 (Quoc-Tung Le, Rémi Gribonval).
